@@ -22,7 +22,7 @@ Este projeto foi construído com foco em:
 - `index.html`: página principal do portfólio
 - `style.css`: estilos da interface
 - `assets/`: imagens utilizadas no site
-- `projeto-academia/`: projeto em destaque listado no portfólio
+- `plataforma-de-treinos/`: projeto em destaque listado no portfólio
 
 ## Contato
 
