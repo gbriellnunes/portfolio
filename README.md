@@ -18,7 +18,6 @@ O portfolio está hospedado no GitHub Pages! Você pode acessá-lo diretamente a
 
 - HTML
 - CSS
-- JavaScript
 
 ## Estrutura
 
