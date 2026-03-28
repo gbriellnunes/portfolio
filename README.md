@@ -11,6 +11,9 @@ Este projeto foi construído com foco em:
 - navegação simples e direta
 - apresentação clara de projetos e contatos
 
+## Visualizar no GitHub Pages
+O portfolio está hospedado no GitHub Pages! Você pode acessá-lo diretamente através deste link: https://gbriellnunes.github.io/portfolio/
+
 ## Tecnologias
 
 - HTML
